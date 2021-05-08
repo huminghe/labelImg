@@ -8,3 +8,7 @@ chopsticks fork spoon
 food
 cigarette
 mobile phone
+door-rear-closed
+door-rear-opened
+book(paper)
+bottle(cup)
